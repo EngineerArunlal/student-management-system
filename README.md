@@ -6,13 +6,9 @@ Description
 This is a Java-based Student Management System designed to manage student records efficiently. It allows administrators to perform CRUD (Create, Read, Update, Delete) operations on student data, including:
 
 Adding new students
-
 Viewing all students
-
 Updating student details
-
 Deleting student records
-
 Searching for students
 
 The project is built using Java (JDBC for database connectivity) and follows an object-oriented approach.
